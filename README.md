@@ -67,7 +67,7 @@ Para se inspirar, o Figma da aplicação está nesse [link.](https://www.figma.c
 
   Ao finalizar e submeter o exercício, não se esqueça de avaliar sua experiência preenchendo o formulário. Leva menos de 3 minutos!
 
-  [FORMULÁRIO DE AVALIAÇÃO](https://be-trybe.typeform.com/to/ZTeR4IbH)
+  [FORMULÁRIO DE AVALIAÇÃO](https://be-trybe.typeform.com/to/ZTeR4IbH#cohort_hidden=CH31-A&template=betrybe/sd-0x-exercise-ghibli-animations)
 
 </details>
 
