@@ -1,0 +1,20 @@
+.film-favorite-title-container {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    width: 20rem;
+    margin-bottom: 1rem;
+}
+
+.button-favorite {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    margin-left: 0.7rem;
+}
+
+.favorite-icon {
+    width: 2.5rem;
+}
