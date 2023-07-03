@@ -1,59 +1,15 @@
-# Boas vindas ao exercício Ghibli Animations
+# Ghibli Animations
 
-Você trabalha como pessoa desenvolvedora Front-end no Studio Ghibli, um dos maiores estúdios de animação do Japão. A sua tarefa será criar uma aplicação que lista todos os filmes de animação produzidos pelo estúdio. A pessoa usuária poderá favoritar os filmes que desejar, que poderão ser acessados em uma outra página.
+Aplicação que lista todos os filmes de animação produzidos pelo estúdio. A pessoa usuária poderá favoritar os filmes que desejar, que poderão ser acessados em uma outra página.
 
 O layout proposto está nesse [figma](https://www.figma.com/file/cqw5AHCVTEEsIGI7eNsAQY/%5BFRONT%5D-Exercise-Ghibli-Animations?node-id=0%3A1&t=0KTsRD18wbnb0tbl-1)
 
 ## Orientações
 
-<details>
-  <summary><strong>‼️ Antes de começar a desenvolver</strong></summary><br />
+  <details>
+O Figma da aplicação está nesse [link.](https://www.figma.com/file/cqw5AHCVTEEsIGI7eNsAQY/%5BFRONT%5D-Exercise-Ghibli-Animations?node-id=0%3A1&t=0KTsRD18wbnb0tbl-1)
 
-- Crie um fork desse projeto, para isso siga esse [tutorial de como realizar um fork](https://guides.github.com/activities/forking/).
-
-- Após fazer o fork, clone o repositório criado para o seu computador.
-
-- Rode o comando `npm install`.
-
-- Vá para a branch `main` do seu projeto e execute o comando `git branch` ou `git branch -a`.
-
-> 💡 Observe o que deve ser feito nas instruções para cada exercício.
-
-</details>
-
-<details>
-  <summary><strong>🤝 Depois de terminar o desenvolvimento</strong></summary><br />
-
-Após a solução dos exercícios, abra um PR no seu repositório forkado e, se quiser, mergeie para a `main`. Sinta-se à vontade!
-
-**Atenção!**: Ao criar o PR,  você irá se deparar com essa tela:
-
-![PR do exercício](images/example-pr.png)
-
-É necessário realizar uma mudança. Para isso, clique no _base repository_ como na imagem abaixo:
-
-![Mudando a base do repositório](images/change-base.png)
-
-Mude para o seu repositório. Seu nome estará na frente do nome dele, por exemplo: `antonio/TicTacToe`. Depois desse passo a página deve ficar assim:
-
-![Após mudança](images/after-change.png)
-
-Agora, basta criar o PULL REQUEST clicando no botão `Create Pull Request`.
-
-> 💡 Realize esse processo para cada PR que abrir.
-
-</details>
-
-<details>
-  <summary><strong>👨‍💻 O que deverá ser desenvolvido</strong></summary><br />
-
-Você criará uma aplicação que exibe as principais animações do [Studio Ghibli](https://studioghibli.com.br/studioghibli/), além de possibilitar a pessoa usuária a favoritar uma animação e renderizá-las na página de favoritos.
-
-> 👀 Dica: a estrutura de páginas e as rotas da aplicação já estão prontas!
-
-Para se inspirar, o Figma da aplicação está nesse [link.](https://www.figma.com/file/cqw5AHCVTEEsIGI7eNsAQY/%5BFRONT%5D-Exercise-Ghibli-Animations?node-id=0%3A1&t=0KTsRD18wbnb0tbl-1)
-
-</details>
+  </details>
 
   <details>
     <summary><strong>🗃API Ghibli Animations</strong></summary> <br />
@@ -61,15 +17,6 @@ Para se inspirar, o Figma da aplicação está nesse [link.](https://www.figma.c
   A API utilizada encontra-se [neste endpoint](https://api-trybe-frontend.vercel.app/api/ghibli-animations). Você pode acessá-la para verificar como os dados serão recebidos pela aplicação e como são os objetos retornados por ela.
 
   </details>
-
-<details>
-  <summary><strong>🗣 Nos dê feedbacks sobre o exercício!</strong></summary> <br />
-
-  Ao finalizar e submeter o exercício, não se esqueça de avaliar sua experiência preenchendo o formulário. Leva menos de 3 minutos!
-
-  [FORMULÁRIO DE AVALIAÇÃO](https://be-trybe.typeform.com/to/ZTeR4IbH#cohort_hidden=CH31-A&template=betrybe/sd-0x-exercise-ghibli-animations)
-
-</details>
 
 <br />
 
